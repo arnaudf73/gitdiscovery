@@ -1,0 +1,1 @@
+#define TRAP_STRING ( char * ) "It's a trap"
