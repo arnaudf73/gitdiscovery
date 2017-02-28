@@ -16,3 +16,8 @@ static dbgassert( bool cond )
         while(1){}
     }
 }
+
+void newfunc( void )
+{
+    
+}
