@@ -21,3 +21,8 @@ void newfunc( void )
 {
     
 }
+
+void oldfunc( void )
+{
+    
+}
