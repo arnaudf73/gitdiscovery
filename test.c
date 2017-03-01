@@ -22,7 +22,7 @@ void newfunc( void )
     
 }
 
-void oldfunc( void )
+void old_func( void )
 {
     
 }
