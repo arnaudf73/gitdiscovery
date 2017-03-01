@@ -22,7 +22,7 @@ void newfunc( void )
     
 }
 
-void old_func( void )
+void old_func_frombranch( void )
 {
     
 }
